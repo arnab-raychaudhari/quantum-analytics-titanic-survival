@@ -192,6 +192,34 @@ Libraries
 | Quantum ML | Variational Quantum Classifier (VQC) | 66.48% |
 | Hybrid Quantum-Classical | Quantum Naive Bayes | 78.79% |
 
+<h3>Random Classifier - Confusion Matrix</h3>
+
+<img src="https://github.com/arnab-raychaudhari/quantum-analytics-titanic-survival/blob/87cbe19243c4852b924806d10d6c3ac2e14699cd/Random%20Classifier%20-%20Confusion%20Matrix.png" width="800" />
+
+<h3>NB - Confusion Matrix</h3>
+
+<img src="https://github.com/arnab-raychaudhari/quantum-analytics-titanic-survival/blob/87cbe19243c4852b924806d10d6c3ac2e14699cd/NB%20-%20Confusion%20Matrix.png" width="800" />
+
+<h3>Hadamard Quantum Circuit</h3>
+
+<img src="https://github.com/arnab-raychaudhari/quantum-analytics-titanic-survival/blob/87cbe19243c4852b924806d10d6c3ac2e14699cd/Hadamard%20Quantum%20Circuit.png" width="800" />
+
+<h3>Entangled Quantum Circuit</h3>
+
+<img src="https://github.com/arnab-raychaudhari/quantum-analytics-titanic-survival/blob/87cbe19243c4852b924806d10d6c3ac2e14699cd/Entangled%20Quantum%20Circuit.png" width="800" />
+
+<h3>ZZ-Feature-Map</h3>
+
+<img src="https://github.com/arnab-raychaudhari/quantum-analytics-titanic-survival/blob/f1e107743e97b223384705bd6db9fef96a9b53a5/ZZ-Feature-Map.png" width="800" />
+
+<h3>Real Amplitude Circuit</h3>
+
+<img src="https://github.com/arnab-raychaudhari/quantum-analytics-titanic-survival/blob/f1e107743e97b223384705bd6db9fef96a9b53a5/Real%20Amplitude%20Circuit.png" width="800" />
+
+<h3>Variational Circuit</h3>
+
+<img src="https://github.com/arnab-raychaudhari/quantum-analytics-titanic-survival/blob/f979290786eb7b0d6510e9be383f3718d1b9e383/Variational%20Circuit.png" width="800" />
+
 ## Method Comparison
 
 | Method | Quantum Encoding | Entanglement | Trainable Parameters |
