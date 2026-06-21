@@ -1,4 +1,4 @@
-# quantum-analytics-titanic-survival
+# Titanic Survival - Hybrid Quantum-Classical Analytics Framework for Predictive Modeling
 This project explores how Quantum Machine Learning (QML) techniques compare against traditional machine learning approaches for a binary classification problem: predicting passenger survival on the Titanic.
 
 The project was completed to investigate multiple modeling approaches:
