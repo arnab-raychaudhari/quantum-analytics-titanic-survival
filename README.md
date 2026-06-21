@@ -176,20 +176,20 @@ Libraries
 
 | Model | Accuracy | Notes |
 |---------|---------:|---------|
-| Random Baseline Classifier | 50.14% | Random guessing benchmark |
-| Quantum Hadamard Classifier | 27.50% | Basic quantum feature encoding using Hadamard gates |
-| Quantum Entangled Classifier | 53.54% | Improved performance through qubit entanglement |
-| Variational Quantum Classifier (VQC) | 74.30% | Trainable quantum circuit using ZZFeatureMap and RealAmplitudes |
-| Gaussian Naive Bayes (Classical) | 78.79% | Best-performing classical probabilistic model |
+| Random Baseline Classifier | 48.74% | Random guessing benchmark |
+| Quantum Hadamard Classifier | 27.93% | Basic quantum feature encoding using Hadamard gates |
+| Quantum Entangled Classifier | 55.31% | Improved performance through qubit entanglement |
+| Variational Quantum Classifier (VQC) | 66.48% | Trainable quantum circuit using ZZFeatureMap and RealAmplitudes |
+| Gaussian Naive Bayes (Classical) | 77.09% | Best-performing classical probabilistic model |
 | Quantum-Enhanced Naive Bayes | 78.79% | Hybrid quantum-classical workflow with comparable performance |
 
 | Approach | Method | Accuracy |
 |-----------|----------|----------:|
-| Classical ML | Random Baseline | 50.14% |
-| Classical ML | Gaussian Naive Bayes | 78.79% |
-| Quantum ML | Hadamard Circuit Classifier | 27.50% |
-| Quantum ML | Entangled Circuit Classifier | 53.54% |
-| Quantum ML | Variational Quantum Classifier (VQC) | 74.30% |
+| Classical ML | Random Baseline | 48.74% |
+| Classical ML | Gaussian Naive Bayes | 77.09% |
+| Quantum ML | Hadamard Circuit Classifier | 27.93% |
+| Quantum ML | Entangled Circuit Classifier | 55.31% |
+| Quantum ML | Variational Quantum Classifier (VQC) | 66.48% |
 | Hybrid Quantum-Classical | Quantum Naive Bayes | 78.79% |
 
 ## Method Comparison
@@ -203,11 +203,11 @@ Libraries
 
 ### Key Observations
 
-- Classical Gaussian Naive Bayes achieved the highest overall accuracy (**78.79%**).
-- The Variational Quantum Classifier (VQC) demonstrated competitive performance (**74.30%**) despite being executed on a quantum simulator.
-- Entanglement improved the performance of custom quantum circuits from **27.50%** to **53.54%**.
+- **Quantum-Enhanced Naive Bayes** achieved the highest overall accuracy (**78.79%**).
+- The Variational Quantum Classifier (VQC) demonstrated competitive performance (**66.48%**) despite being executed on a quantum simulator.
+- **Entanglement** improved the performance of custom quantum circuits from **27.93%** to **55.31%**.
 - Hybrid quantum-classical approaches achieved results comparable to classical machine learning methods.
-- Results suggest that variational quantum algorithms are promising for future analytics applications, although classical methods remain superior for this dataset.
+- Results suggest that **variational quantum algorithms are promising for future analytics applications**, although classical methods remain superior for this dataset.
 
 ## Future Improvements
 
