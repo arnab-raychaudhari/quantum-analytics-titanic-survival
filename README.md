@@ -148,7 +148,7 @@ This approach demonstrates how quantum-generated features can augment classical 
 
 ### Programming
 
-* Python
+* [Python](https://github.com/arnab-raychaudhari/quantum-analytics-titanic-survival/blob/d321f74fc43e770b0c1bd7f047c68f68f6d2de85/qa-titanic-survival.ipynb)
 
 Libraries
 
