@@ -18,7 +18,7 @@ Can quantum machine learning techniques achieve competitive classification perfo
 
 ##  Dataset
 
-The project uses the well-known Titanic Survival Dataset, containing passenger information such as:
+The project uses the well-known [Titanic Survival Dataset](https://github.com/arnab-raychaudhari/quantum-analytics-titanic-survival/blob/db7b047c6ec44e4fd8dab1ce77e3caa435fd0d7f/titanic_train.csv), containing passenger information such as:
 
 * Passenger Class (Pclass)
 * Sex
